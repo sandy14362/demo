@@ -1,0 +1,5 @@
+[27-Mar-2018 11:36:21 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Auth\Mail' not found in /home/moderni/public_html/projects/signupdemo/app/Http/Controllers/Auth/LoginController.php on line 38
+[27-Mar-2018 11:36:34 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Auth\Mail' not found in /home/moderni/public_html/projects/signupdemo/app/Http/Controllers/Auth/LoginController.php on line 38
+[27-Mar-2018 11:38:06 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Auth\Mail' not found in /home/moderni/public_html/projects/signupdemo/app/Http/Controllers/Auth/LoginController.php on line 38
+[27-Mar-2018 11:38:39 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Auth\App\Mail' not found in /home/moderni/public_html/projects/signupdemo/app/Http/Controllers/Auth/LoginController.php on line 38
+[27-Mar-2018 12:52:44 UTC] PHP Parse error:  syntax error, unexpected 'eld' (T_STRING) in /home/moderni/public_html/projects/signupdemo/storage/framework/views/cb3aeadf42ee53fbfc6a736f9fe4a18266f040d3.php on line 25
